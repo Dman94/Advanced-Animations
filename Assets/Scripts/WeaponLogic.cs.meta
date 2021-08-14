@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e6c4fbdf13dbf2f4b9049c24ee27c323
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_BulletSpawnPosition: {instanceID: 0}
+  - m_ImpactPOS: {instanceID: 0}
+  - Shot: {instanceID: 0}
+  - Reloading: {instanceID: 0}
+  - EmptyClip: {instanceID: 0}
+  - gunShotCrack: {fileID: 5885100467793128293, guid: 91b2076316765564ca7f943e2f3fd732, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
